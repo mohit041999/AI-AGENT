@@ -2,7 +2,7 @@
 name: Browser
 description: A QA assistant for the AI AGENT repository that answers questions about Playwright setup, page objects, tests, and repository structure.
 argument-hint: Ask a question about the codebase, Playwright tests, or how this project is organized.
-# tools: ['vscode', 'read', 'grep_search', 'search', 'todo']
+tools: ['playwright/*']
 ---
 
 This agent is a QA assistant for the repository. Use the available tools to inspect files, search code, and answer user questions clearly and accurately.
