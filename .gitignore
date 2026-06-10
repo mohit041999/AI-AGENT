@@ -1,0 +1,4 @@
+node_modules
+.playwright
+npm-debug.log
+.vscode
