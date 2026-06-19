@@ -1,0 +1,576 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e5]:
+        - button "SummarizeX logo SummarizeX" [ref=e7] [cursor=pointer]:
+          - img "SummarizeX logo" [ref=e8]
+          - heading "SummarizeX" [level=2] [ref=e9]
+        - button "menu" [ref=e11]:
+          - img "menu" [ref=e12]
+      - generic [ref=e14]:
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - img "5-star user rating" [ref=e17]
+            - heading "Welcome to SummarizeX" [level=4] [ref=e18]
+          - heading "Transform Speech into Actionable Insights" [level=1] [ref=e20]:
+            - text: Transform Speech into
+            - text: Actionable Insights
+          - paragraph [ref=e21]: Record meetings, lectures, and conversations and instantly receive AI- powered summaries and key takeaways. Focus on the moment, let SummarizeX write your notes.
+          - generic [ref=e22]:
+            - link "Get SummarizeX on Google Play Get it on Google Play" [ref=e23] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.softradix.summarizex&pli=1
+              - button "Get SummarizeX on Google Play Get it on Google Play" [ref=e24]:
+                - img "Get SummarizeX on Google Play" [ref=e25]
+                - generic [ref=e26]:
+                  - paragraph [ref=e27]: Get it on
+                  - paragraph [ref=e28]: Google Play
+            - link "Download SummarizeX on the App Store Download on the App store" [ref=e29] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/summarizex-ai-note-taker/id6747373968
+              - button "Download SummarizeX on the App Store Download on the App store" [ref=e30]:
+                - img "Download SummarizeX on the App Store" [ref=e31]
+                - generic [ref=e32]:
+                  - paragraph [ref=e33]: Download on the
+                  - paragraph [ref=e34]: App store
+        - img "mobile" [ref=e36]
+    - generic [ref=e37]:
+      - generic [ref=e39]:
+        - img "SummarizeX AI meeting transcription dashboard" [ref=e41]
+        - generic [ref=e42]:
+          - button "About SummarizeX" [ref=e43]
+          - heading "Simplify Your Conversations with AI" [level=3] [ref=e44]:
+            - text: Simplify Your
+            - text: Conversations with AI
+          - paragraph [ref=e45]: SummarizeX is an AI-powered app that records, transcribes, and summarizes your voice conversations, meetings, and documents —so you never miss important details. Designed for professionals, students, and anyone who wants to stay focused without taking manual notes, SummarizeX works as your AI meeting note taker and transcription assistant, turning speech into clear, searchable text and concise summaries. Whether you're capturing a quick voice memo or a full meeting, it helps you capture and recall key information effortlessly, anytime and anywhere.
+          - button "Watch Video" [ref=e46] [cursor=pointer]:
+            - img [ref=e48]
+            - text: Watch Video
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - heading "All-in-One Upload Hub for Smarter Summaries" [level=3] [ref=e53]
+          - paragraph [ref=e54]: Save time by uploading content in multiple formats and letting AI convert it into structured summaries, transcripts, and insights you can use right away.
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - heading "Multi–Source Input Methods" [level=2] [ref=e57]
+            - paragraph [ref=e58]: Process content from 8 different sources with the same powerful AI capabilities
+            - generic [ref=e59]:
+              - generic [ref=e60]:
+                - img [ref=e61]
+                - generic [ref=e63]:
+                  - heading "Upload Audio" [level=3] [ref=e64]
+                  - paragraph [ref=e65]: Add existing audio files for instant transcription and summarization.
+              - generic [ref=e66]:
+                - img [ref=e67]
+                - generic [ref=e69]:
+                  - heading "Upload Video" [level=3] [ref=e70]
+                  - paragraph [ref=e71]: Submit video files for AI analysis and key point extraction.
+              - generic [ref=e72]:
+                - img [ref=e73]
+                - generic [ref=e76]:
+                  - heading "Upload Document" [level=3] [ref=e77]
+                  - paragraph [ref=e78]: Process PDFs, DOCs, and other formats for summarization.
+              - generic [ref=e79]:
+                - img [ref=e80]
+                - generic [ref=e82]:
+                  - heading "Image" [level=3] [ref=e83]
+                  - paragraph [ref=e84]: Upload images containing text for AI-driven summarization.
+              - generic [ref=e85]:
+                - img "youtube" [ref=e86]
+                - generic [ref=e87]:
+                  - heading "YouTube URL" [level=3] [ref=e88]
+                  - paragraph [ref=e89]: Paste a YouTube video’s URL to generate a summary of its content.
+              - generic [ref=e90]:
+                - img [ref=e91]
+                - generic [ref=e94]:
+                  - heading "URL" [level=3] [ref=e95]
+                  - paragraph [ref=e96]: Paste a web link or a YouTube video’s URL to generate a summary of its content.
+              - generic [ref=e97]:
+                - img [ref=e98]
+                - generic [ref=e100]:
+                  - heading "Enter Text" [level=3] [ref=e101]
+                  - paragraph [ref=e102]: Type or paste text directly for instant AI analysis.
+              - generic [ref=e103]:
+                - img [ref=e104]
+                - generic [ref=e108]:
+                  - heading "Record Audio" [level=3] [ref=e109]
+                  - paragraph [ref=e110]: Capture meetings, lectures, or conversations live within the app.
+          - img "mobile" [ref=e112]
+      - generic [ref=e114]:
+        - generic [ref=e115]:
+          - heading "Key Features" [level=3] [ref=e116]
+          - paragraph [ref=e117]: Smart tools designed to simplify recording, uploading, and summarizing — all in one place.
+        - generic [ref=e118]:
+          - generic [ref=e119]:
+            - img [ref=e120]
+            - heading "Offline Recording" [level=3] [ref=e124]
+            - paragraph [ref=e125]: Record audio anytime without an internet connection—ideal for meetings, lectures, or fieldwork. All recordings are saved locally and appear in the Pending section. Once you're back online, summaries are automatically generated and synced.
+          - generic [ref=e126]:
+            - img [ref=e127]
+            - heading "Upload Any File" [level=3] [ref=e131]
+            - paragraph [ref=e132]: Upload audio, video, documents, or text for instant AI processing. Your transcription assistant creates searchable summaries and action-ready notes across multiple formats.
+          - img "Mobile preview" [ref=e134]
+          - generic [ref=e135]:
+            - img [ref=e136]
+            - heading "Instant Summary" [level=3] [ref=e139]
+            - paragraph [ref=e140]: Generate concise summaries of recordings, documents, or conversations in seconds using our AI-powered summarization tool. Grasp key points, decisions, and action items without reviewing full content.
+          - generic [ref=e141]:
+            - img [ref=e142]
+            - heading "AI Action Templates" [level=3] [ref=e147]
+            - paragraph [ref=e148]: Use ready-made templates to transform content into structured notes, reports, or task lists. Save time and maintain a consistent workflow with one-click formatting.
+          - generic [ref=e149]:
+            - img [ref=e150]
+            - heading "Seamless Sharing" [level=3] [ref=e154]
+            - paragraph [ref=e155]: Share transcripts and summaries with your team in one click. Export to multiple formats or integrate directly with your favorite collaboration tools.
+          - generic [ref=e156]:
+            - img [ref=e157]
+            - heading "Organize in Folders" [level=3] [ref=e160]
+            - paragraph [ref=e161]: Keep your files structured in custom folders for efficient access and management. Group transcriptions and summaries by topic, client, or project.
+          - generic [ref=e162]:
+            - img [ref=e163]
+            - heading "Multi-Language Support" [level=3] [ref=e166]
+            - paragraph [ref=e167]: Break language barriers with multi-language transcription and summarization. Our AI assistant accurately processes diverse languages for global accessibility.
+    - generic [ref=e169]:
+      - generic [ref=e170]:
+        - heading "Solutions for Every Industry" [level=3] [ref=e171]
+        - paragraph [ref=e172]: See how different industries leverage SummarizeX to boost productivity
+      - generic [ref=e173]:
+        - generic [ref=e175]:
+          - 'region "Executive & Enterprise icon Executive & Enterprise Capture Strategic Conversations with Precision Summarize leadership syncs, boardroom discussions, and cross-functional meetings using an AI meeting note taker built for clarity and speed. AI meeting transcription ensures key decisions, insights, and action items are documented and aligned across teams. Industries: Corporate, Startups, Product Teams, Project Management, VCs, Enterprise Strategy Roles: CEOs, CTOs, Project Managers, Product Owners, Department Heads" [ref=e176] [cursor=pointer]':
+            - 'button "Executive & Enterprise icon Executive & Enterprise Capture Strategic Conversations with Precision Summarize leadership syncs, boardroom discussions, and cross-functional meetings using an AI meeting note taker built for clarity and speed. AI meeting transcription ensures key decisions, insights, and action items are documented and aligned across teams. Industries: Corporate, Startups, Product Teams, Project Management, VCs, Enterprise Strategy Roles: CEOs, CTOs, Project Managers, Product Owners, Department Heads" [expanded] [ref=e177]':
+              - generic [ref=e178]:
+                - generic [ref=e179]:
+                  - generic [ref=e180]:
+                    - img "Executive & Enterprise icon" [ref=e181]
+                    - generic [ref=e182]:
+                      - heading "Executive & Enterprise" [level=3] [ref=e183]
+                      - paragraph [ref=e184]: Capture Strategic Conversations with Precision
+                  - img [ref=e186]
+                - generic [ref=e190]:
+                  - paragraph [ref=e191]: Summarize leadership syncs, boardroom discussions, and cross-functional meetings using an AI meeting note taker built for clarity and speed. AI meeting transcription ensures key decisions, insights, and action items are documented and aligned across teams.
+                  - generic [ref=e192]:
+                    - generic [ref=e194]: "Industries:"
+                    - paragraph [ref=e195]: Corporate, Startups, Product Teams, Project Management, VCs, Enterprise Strategy
+                  - generic [ref=e196]:
+                    - generic [ref=e198]: "Roles:"
+                    - paragraph [ref=e199]: CEOs, CTOs, Project Managers, Product Owners, Department Heads
+          - region "Education & Research icon Education & Research" [ref=e200] [cursor=pointer]:
+            - button "Education & Research icon Education & Research" [ref=e201]:
+              - generic [ref=e202]:
+                - generic [ref=e203]:
+                  - generic [ref=e204]:
+                    - img "Education & Research icon" [ref=e205]
+                    - heading "Education & Research" [level=3] [ref=e207]
+                  - img [ref=e209]
+                - paragraph [ref=e213]: Automatically summarize university lectures, academic webinars, and research discussions into structured study materials. Perfect for students and educators using AI to summarize meeting transcripts and streamline academic workflows.
+                - generic [ref=e214]:
+                  - generic [ref=e216]: "Industries:"
+                  - paragraph [ref=e217]: Universities, EdTech, Research Institutes, Online Learning Platforms
+                - generic [ref=e218]:
+                  - generic [ref=e220]: "Roles:"
+                  - paragraph [ref=e221]: Professors, Researchers, Students, Academic Coordinators
+          - region "Media & Journalism icon Media & Journalism" [ref=e222] [cursor=pointer]:
+            - button "Media & Journalism icon Media & Journalism" [ref=e223]:
+              - generic [ref=e224]:
+                - generic [ref=e225]:
+                  - generic [ref=e226]:
+                    - img "Media & Journalism icon" [ref=e227]
+                    - heading "Media & Journalism" [level=3] [ref=e229]
+                  - img [ref=e231]
+                - paragraph [ref=e235]: Summarize press briefings, interviews, and field recordings into concise editorial content. Whether you're producing daily news or long-form features, AI meeting notes tools help maintain speed, clarity, and editorial consistency.
+                - generic [ref=e236]:
+                  - generic [ref=e238]: "Industries:"
+                  - paragraph [ref=e239]: Newsrooms, Podcasts, Digital Media, Broadcast Journalism
+                - generic [ref=e240]:
+                  - generic [ref=e242]: "Roles:"
+                  - paragraph [ref=e243]: Journalists, Editors, Producers, Content Strategists
+          - region "Legal & Compliance icon Legal & Compliance" [ref=e244] [cursor=pointer]:
+            - button "Legal & Compliance icon Legal & Compliance" [ref=e245]:
+              - generic [ref=e246]:
+                - generic [ref=e247]:
+                  - generic [ref=e248]:
+                    - img "Legal & Compliance icon" [ref=e249]
+                    - heading "Legal & Compliance" [level=3] [ref=e251]
+                  - img [ref=e253]
+                - paragraph [ref=e257]: Summarize client meetings, compliance briefings, and legal transcripts into organized documentation. AI meeting transcription supports legal teams with faster documentation, improved traceability, and reduced manual effort.
+                - generic [ref=e258]:
+                  - generic [ref=e260]: "Industries:"
+                  - paragraph [ref=e261]: Law Firms, Corporate Legal Teams, Regulatory Bodies, Compliance Consultancies
+                - generic [ref=e262]:
+                  - generic [ref=e264]: "Roles:"
+                  - paragraph [ref=e265]: Lawyers, Legal Analysts, Compliance Officers, Paralegals
+        - img "Person using phone" [ref=e267]
+    - generic [ref=e269]:
+      - heading "Choose Your Plan" [level=2] [ref=e270]
+      - paragraph [ref=e271]: Unlock the full potential of AI-powered summarization with plans designed for every need
+      - generic [ref=e272]:
+        - generic [ref=e273]: Monthly
+        - button [ref=e274] [cursor=pointer]
+        - generic [ref=e276]: Yearly
+        - generic [ref=e277]: 17 % off
+      - generic [ref=e278]:
+        - generic [ref=e281]:
+          - generic [ref=e284]:
+            - generic [ref=e287]:
+              - paragraph [ref=e288]: $0Free
+              - heading "Free Plan" [level=2] [ref=e289]
+              - paragraph [ref=e290]: Perfect for getting started with SummarizeX
+            - generic [ref=e293]:
+              - generic [ref=e294]:
+                - img "tick" [ref=e295]
+                - paragraph [ref=e296]: 10 AI-powered summaries
+              - generic [ref=e297]:
+                - img "tick" [ref=e298]
+                - paragraph [ref=e299]: Basic transcription (up to 30 minutes)
+              - generic [ref=e300]:
+                - img "tick" [ref=e301]
+                - paragraph [ref=e302]: Overview and Key points for each summary
+              - generic [ref=e303]:
+                - img "tick" [ref=e304]
+                - paragraph [ref=e305]: Unlimited folder organization
+            - button "Get Started" [ref=e307] [cursor=pointer]
+          - generic [ref=e310]:
+            - generic [ref=e313]:
+              - paragraph [ref=e314]: $4.99/month
+              - heading "Student Plan" [level=2] [ref=e315]
+              - paragraph [ref=e316]: Perfect for getting started with SummarizeX
+            - generic [ref=e319]:
+              - generic [ref=e320]:
+                - img "tick" [ref=e321]
+                - paragraph [ref=e322]: 25 high-quality transcriptions and summaries per month
+              - generic [ref=e323]:
+                - img "tick" [ref=e324]
+                - paragraph [ref=e325]: Extended transcription (up to 60 minutes)
+              - generic [ref=e326]:
+                - img "tick" [ref=e327]
+                - paragraph [ref=e328]: Overview and key points for each summary
+              - generic [ref=e329]:
+                - img "tick" [ref=e330]
+                - paragraph [ref=e331]: Unlimited folder organization
+              - generic [ref=e332]:
+                - img "tick" [ref=e333]
+                - paragraph [ref=e334]: Chat messaging – Chat with content
+              - generic [ref=e335]:
+                - img "tick" [ref=e336]
+                - paragraph [ref=e337]: Custom AI actions
+              - generic [ref=e338]:
+                - img "tick" [ref=e339]
+                - paragraph [ref=e340]: 4 AI actions like Smart Quiz, Lecture Notes, etc.
+              - generic [ref=e341]:
+                - img "tick" [ref=e342]
+                - paragraph [ref=e343]: Powerful AI models for learning
+              - generic [ref=e344]:
+                - img "tick" [ref=e345]
+                - paragraph [ref=e346]: Advanced sharing and export options (Copy, Share, PDF)
+            - button "Get Started" [ref=e348] [cursor=pointer]
+          - generic [ref=e351]:
+            - generic [ref=e354]:
+              - paragraph [ref=e355]: $9.99/month
+              - heading "Personal Plan" [level=2] [ref=e356]
+              - paragraph [ref=e357]: Perfect for getting started with SummarizeX
+            - generic [ref=e360]:
+              - generic [ref=e361]:
+                - img "tick" [ref=e362]
+                - paragraph [ref=e363]: 40 high-quality transcriptions and summaries per month
+              - generic [ref=e364]:
+                - img "tick" [ref=e365]
+                - paragraph [ref=e366]: Extended transcription (up to 120 minutes)
+              - generic [ref=e367]:
+                - img "tick" [ref=e368]
+                - paragraph [ref=e369]: Overview and key points for each summary
+              - generic [ref=e370]:
+                - img "tick" [ref=e371]
+                - paragraph [ref=e372]: Unlimited folder organization
+              - generic [ref=e373]:
+                - img "tick" [ref=e374]
+                - paragraph [ref=e375]: Chat messaging – Chat with content
+              - generic [ref=e376]:
+                - img "tick" [ref=e377]
+                - paragraph [ref=e378]: Custom AI actions
+              - generic [ref=e379]:
+                - img "tick" [ref=e380]
+                - paragraph [ref=e381]: Unlimited AI actions like Detailed Summary, Lecture Notes, Action Items, etc.
+              - generic [ref=e382]:
+                - img "tick" [ref=e383]
+                - paragraph [ref=e384]: Premium AI models for transcription and summary
+              - generic [ref=e385]:
+                - img "tick" [ref=e386]
+                - paragraph [ref=e387]: Advanced sharing and export options (Copy, Share, PDF)
+            - button "Get Started" [ref=e389] [cursor=pointer]
+        - generic [ref=e390]:
+          - button "Go to slide 1" [ref=e391]
+          - button "Go to slide 2" [ref=e392]
+          - button "Go to slide 3" [ref=e393]
+    - generic [ref=e395]:
+      - heading "What Our Users Say" [level=3] [ref=e396]
+      - paragraph [ref=e397]: Discover how professionals across industries are transforming their workflow with SummarizeX
+      - generic [ref=e398]:
+        - generic [ref=e399]:
+          - generic [ref=e401]:
+            - img [ref=e402]
+            - img [ref=e405]
+            - generic [ref=e408]:
+              - generic [ref=e409]: ★
+              - generic [ref=e410]: ★
+              - generic [ref=e411]: ★
+              - generic [ref=e412]: ★
+              - generic [ref=e413]: ★
+            - paragraph [ref=e414]: Recording investor pitches and getting instant summaries helps me refine my presentations and track key feedback points
+            - img "David Kim" [ref=e415]
+            - heading "David Kim" [level=3] [ref=e416]
+            - paragraph [ref=e417]: Startup Founder
+          - generic:
+            - img "David Kim" [ref=e418] [cursor=pointer]
+            - img "Alfred Valdez" [ref=e419] [cursor=pointer]
+            - img "Michael Chen" [ref=e420] [cursor=pointer]
+            - img "Liam Wilson" [ref=e421] [cursor=pointer]
+            - img "James Park" [ref=e422] [cursor=pointer]
+            - img "Gideon Goodman" [ref=e423] [cursor=pointer]
+            - img "Emily Carter" [ref=e424] [cursor=pointer]
+        - generic [ref=e425]:
+          - button "" [ref=e426] [cursor=pointer]:
+            - generic [ref=e427]: 
+          - button "" [ref=e428] [cursor=pointer]:
+            - generic [ref=e429]: 
+    - generic [ref=e431]:
+      - generic [ref=e432]:
+        - heading "Frequently Asked Questions" [level=3] [ref=e433]
+        - paragraph [ref=e434]: Find quick answers to the most common questions about SummarizeX—how it works, supported formats, pricing, and more.
+      - generic [ref=e436]:
+        - generic [ref=e439] [cursor=pointer]:
+          - button "What is SummarizeX?" [expanded] [ref=e440]:
+            - heading "What is SummarizeX?" [level=3] [ref=e443]
+            - img [ref=e445]
+          - generic [ref=e449]:
+            - paragraph [ref=e450]: SummarizeX
+            - text: "is an AI-powered note-taking and transcription assistant that turns recordings, documents, and videos into clear, actionable summaries. The app lets you record live audio directly on your phone, Apple Watch, or Wear OS device — even offline without an internet connection — or upload files in multiple formats including audio, video, PDFs, Word documents, spreadsheets, and images with text. You can also paste any YouTube video URL or website link, and SummarizeX will generate a summary of the content automatically. The AI engine provides several output formats: a quick overview with key points, detailed notes for studying, structured action items from meetings, organized lecture notes, and quizzes generated from your content. SummarizeX supports transcription and summarization in"
+            - paragraph [ref=e451]: over 120 languages
+            - text: and integrates with
+            - paragraph [ref=e452]: Zoom, Google Meet, and Microsoft Teams
+            - text: . It is available on iOS, Android, Apple Watch, Wear OS, and as a web app at
+            - link "app.summarizex.ai" [ref=e453]:
+              - /url: https://app.summarizex.ai/
+            - text: . You can start for free with no credit card required.
+        - generic [ref=e456] [cursor=pointer]:
+          - button "How does SummarizeX work?" [ref=e457]:
+            - heading "How does SummarizeX work?" [level=3] [ref=e460]
+            - img [ref=e462]
+          - generic [ref=e464]:
+            - text: "SummarizeX works in three simple steps:"
+            - paragraph [ref=e465]: capture, transcribe, and summarize
+            - text: . First, you capture content by recording audio with a single tap on your phone, smartwatch, or computer, uploading a file, or pasting a YouTube or website URL into the app. You can also record phone calls and have them summarized. The app continues recording in the background, so you can pause, resume, and multitask freely. Second, SummarizeX uses
+            - paragraph [ref=e466]: AI-powered speech recognition
+            - text: to transcribe the audio into accurate text, supporting over 120 languages and multiple accents. Third, the AI analyzes the full transcript and generates a structured summary based on the format you choose — key points, detailed notes, lecture notes, or action items. After summarization, you can use the built-in
+            - paragraph [ref=e467]: chat feature
+            - text: to ask questions directly from the transcription, diving deeper into specific parts of the content. All summaries are organized in custom folders and are searchable within the app across all your devices.
+        - generic [ref=e470] [cursor=pointer]:
+          - button "What files can I upload to SummarizeX?" [ref=e471]:
+            - heading "What files can I upload to SummarizeX?" [level=3] [ref=e474]
+            - img [ref=e476]
+          - generic [ref=e478]:
+            - text: SummarizeX supports a wide range of file types for upload and summarization. You can upload
+            - paragraph [ref=e479]: audio files
+            - text: in formats like MP3, WAV, and M4A for direct transcription and summarization.
+            - paragraph [ref=e480]: Video files
+            - text: such as MP4 and MOV are also supported — the app extracts the audio track automatically and processes it. For text-based content, you can upload
+            - paragraph [ref=e481]: PDF documents, Word documents, spreadsheets
+            - text: like CSV and XLSX, and other common file formats. SummarizeX will extract the content and generate a concise summary. Images containing text, such as photos of whiteboards, handwritten notes, or screenshots, are also processed to extract and summarize the visible text. Beyond file uploads, you can paste any
+            - paragraph [ref=e482]: YouTube video URL
+            - text: to get a summary of the video content, or paste any
+            - paragraph [ref=e483]: website link
+            - text: to summarize a web page — no downloads or browser extensions required. You can also type or paste text directly into the app. In total, there are eight different ways to get content into SummarizeX for processing.
+        - generic [ref=e486] [cursor=pointer]:
+          - button "Do I need internet to record with SummarizeX?" [ref=e487]:
+            - heading "Do I need internet to record with SummarizeX?" [level=3] [ref=e490]
+            - img [ref=e492]
+          - generic [ref=e494]:
+            - paragraph [ref=e495]: "No"
+            - text: ", you do not need an internet connection to record with SummarizeX. The app includes a fully"
+            - paragraph [ref=e496]: offline recording mode
+            - text: that saves audio locally on your device. This feature works across all platforms — iOS, Android, Apple Watch, and Wear OS. It makes SummarizeX ideal for in-person meetings, university lectures, fieldwork, doctor appointments, or any situation where Wi-Fi or mobile data is unavailable or unreliable. You can start a recording in airplane mode, in a basement conference room, or during an outdoor interview with no signal — the audio is captured and stored securely on your device. All offline recordings appear in the
+            - paragraph [ref=e497]: Pending section
+            - text: of the app. Once your device reconnects to the internet, SummarizeX automatically uploads the recording, transcribes it in your chosen language, and generates a full summary — no manual steps required. This makes SummarizeX one of the few AI note-taking apps that does not depend on a constant internet connection to capture important conversations.
+        - generic [ref=e500] [cursor=pointer]:
+          - button "Is SummarizeX available on my phone?" [ref=e501]:
+            - heading "Is SummarizeX available on my phone?" [level=3] [ref=e504]
+            - img [ref=e506]
+          - generic [ref=e508]:
+            - paragraph [ref=e509]: "Yes"
+            - text: ", SummarizeX is available across multiple platforms. The iOS app supports iPhone, iPad, Apple Watch, Mac with Apple Silicon, and Apple Vision Pro, and requires iOS 15.6 or later. For Android users, SummarizeX is available on the"
+            - paragraph [ref=e510]: Google Play Store
+            - text: "for phones and Wear OS smartwatches. Both mobile apps include the full set of features: one-tap recording, offline recording, AI transcription in over 120 languages, summarization, file uploads, and multi-format export. SummarizeX also works on"
+            - paragraph [ref=e511]: smartwatches
+            - text: — both Apple Watch and Wear OS — allowing you to start and manage recordings directly from your wrist. This is useful for quick captures during walking meetings, appointments, or brainstorming sessions when pulling out your phone is not practical. For desktop users, the web app at
+            - link [ref=e512]:
+              - /url: https://app.summarizex.ai/
+              - text: app.summarizex.ai
+            - text: works in any modern browser without requiring software installation. All your recordings, transcripts, and summaries sync automatically across every device linked to your account, so you can record on one device and review the summary on another.
+        - generic [ref=e515] [cursor=pointer]:
+          - button "How long can my recordings be?" [ref=e516]:
+            - heading "How long can my recordings be?" [level=3] [ref=e519]
+            - img [ref=e521]
+          - generic [ref=e523]:
+            - text: Recording length depends on your SummarizeX plan. Free plan users can record up to
+            - paragraph [ref=e524]: 30 minutes
+            - text: per session, which covers most quick meetings, stand-ups, and short conversations. Student plan users at
+            - paragraph [ref=e525]: $4.99 per month
+            - text: can record up to
+            - paragraph [ref=e526]: 60 minutes
+            - text: per session, making it suitable for full university lectures and seminars. Personal plan users at
+            - paragraph [ref=e527]: $9.99 per month
+            - text: can record up to
+            - paragraph [ref=e528]: 120 minutes
+            - text: per session, accommodating longer workshops, training sessions, and extended team meetings. All plans allow you to make multiple recordings — the time limit applies per individual recording session, not to total monthly recording time. The same duration limits apply when uploading audio or video files for transcription. If you need to process content longer than your plan allows, you can split it into smaller segments before uploading. Yearly billing is also available at a 17% discount across both paid plans. All plans include offline recording, multi-language support in over 120 languages, and file upload capabilities.
+        - generic [ref=e531] [cursor=pointer]:
+          - button "Can I share my summaries?" [ref=e532]:
+            - heading "Can I share my summaries?" [level=3] [ref=e535]
+            - img [ref=e537]
+          - generic [ref=e539]:
+            - paragraph [ref=e540]: "Yes"
+            - text: ", SummarizeX lets you share your summaries with others, with options varying by plan. On the free plan, you can copy the summary text to your clipboard for pasting into other apps, notes, or documents. On the Student plan ($4.99/month) and Personal plan ($9.99/month), you get advanced sharing and export options — you can export summaries as"
+            - paragraph [ref=e541]: PDF documents
+            - text: or plain text files and share them directly through email, WhatsApp, Slack, or any messaging app you use. The exported summaries include all key points, structured notes, or action items in a clean, readable format. Recipients can review the shared content without needing a SummarizeX account. Sharing meeting summaries is useful for distributing notes to team members who could not attend, sending lecture summaries to classmates, or documenting action items for project tracking. All summaries are also organized in folders within the app, making it easy to find and reshare past content when needed.
+        - generic [ref=e544] [cursor=pointer]:
+          - button "Is my information safe with SummarizeX?" [ref=e545]:
+            - heading "Is my information safe with SummarizeX?" [level=3] [ref=e548]
+            - img [ref=e550]
+          - generic [ref=e552]:
+            - paragraph [ref=e553]: "Yes"
+            - text: ", SummarizeX takes your privacy and data security seriously. All your recordings and summaries are"
+            - paragraph [ref=e554]: encrypted
+            - text: "and stored securely. You retain full control over your data — you can delete any recording, transcript, or summary from your account at any time, and you can request complete account deletion through the app whenever you choose. Nothing is shared with third parties without your permission. SummarizeX collects only the information necessary to provide the service: your contact information for account management, the content you upload for processing, and device identifiers. Usage data is collected for improving the app but is not linked to your identity. Offline recordings are stored locally on your device until you choose to sync them. SummarizeX is built and maintained by"
+            - paragraph [ref=e555]: SoftRadix Technologies Pvt Ltd
+            - text: . You can review the full privacy policy at
+            - link [ref=e556]:
+              - /url: https://summarizex.ai/privacy
+              - text: summarizex.ai/privacy
+            - text: and the terms of service at
+            - link [ref=e557]:
+              - /url: https://summarizex.ai/terms
+              - text: summarizex.ai/terms
+            - text: .
+        - generic [ref=e560] [cursor=pointer]:
+          - button "What can I do with my summaries?" [ref=e561]:
+            - heading "What can I do with my summaries?" [level=3] [ref=e564]
+            - img [ref=e566]
+          - generic [ref=e568]:
+            - text: SummarizeX offers multiple AI-powered summary formats to match different needs. The
+            - paragraph [ref=e569]: Overview and Key Points
+            - text: format gives you a quick, high-level recap with bullet points — ideal for reviewing a meeting in under a minute. The
+            - paragraph [ref=e570]: Detailed Summary
+            - text: provides in-depth context and key takeaways for thorough review.
+            - paragraph [ref=e571]: Lecture Mode
+            - text: produces structured, readable notes organized by topic, designed for students studying from recorded lectures. The
+            - paragraph [ref=e572]: Action Items
+            - text: format extracts specific tasks, decisions, and follow-ups from meetings so nothing gets missed. You can also generate quizzes using the
+            - paragraph [ref=e573]: Smart Quiz AI action
+            - text: ", turning lecture or meeting content into questions for self-testing and exam preparation. Beyond these built-in formats, SummarizeX includes Custom AI Actions and ready-made AI Action Templates to transform content into reports, task lists, or other structured outputs. After a summary is generated, you can use the chat feature to ask follow-up questions directly from the transcription. All summaries are organized into custom folders and are fully searchable within the app."
+        - generic [ref=e576] [cursor=pointer]:
+          - button "Do I need to pay to use SummarizeX?" [ref=e577]:
+            - heading "Do I need to pay to use SummarizeX?" [level=3] [ref=e580]
+            - img [ref=e582]
+          - generic [ref=e584]:
+            - paragraph [ref=e585]: "No"
+            - text: ", you can start using SummarizeX for free with no credit card required. The free plan includes"
+            - paragraph [ref=e586]: 10 AI-powered summaries
+            - text: per month with recordings up to 30 minutes each, overview and key points for each summary, and unlimited folder organization. You can copy summary text on the free plan, but sharing and PDF export require a paid plan. The Student plan at
+            - paragraph [ref=e587]: $4.99 per month
+            - text: includes 25 transcriptions and summaries per month, 60-minute recordings, chat messaging to interact with your content, four AI actions including Smart Quiz and Lecture Notes, and advanced sharing and export options including PDF. The Personal plan at
+            - paragraph [ref=e588]: $9.99 per month
+            - text: includes 40 transcriptions and summaries per month, 120-minute recordings, unlimited AI actions including Detailed Summary and Action Items, premium AI models for higher quality transcription, and all features from the Student plan. Yearly billing is available at a 17% discount on both paid plans. All plans include offline recording, multi-language support in over 120 languages, and file uploads.
+    - generic [ref=e589]:
+      - generic [ref=e590]:
+        - generic [ref=e591]:
+          - heading "Ready to transform how you handle audio content?" [level=3] [ref=e592]
+          - paragraph [ref=e593]: Download SummarizeX today and join our growing community of users worldwide who are revolutionizing their workflow.
+          - generic [ref=e595]:
+            - link "Get SummarizeX on Google Play Get it on Google Play" [ref=e596] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.softradix.summarizex&pli=1
+              - button "Get SummarizeX on Google Play Get it on Google Play" [ref=e597]:
+                - img "Get SummarizeX on Google Play" [ref=e598]
+                - generic [ref=e599]:
+                  - paragraph [ref=e600]: Get it on
+                  - paragraph [ref=e601]: Google Play
+            - link "Download SummarizeX on the App Store Download on the App store" [ref=e602] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/summarizex-ai-note-taker/id6747373968
+              - button "Download SummarizeX on the App Store Download on the App store" [ref=e603]:
+                - img "Download SummarizeX on the App Store" [ref=e604]
+                - generic [ref=e605]:
+                  - paragraph [ref=e606]: Download on the
+                  - paragraph [ref=e607]: App store
+        - img "illustration" [ref=e609]
+      - contentinfo [ref=e610]:
+        - generic [ref=e611]:
+          - generic [ref=e612]:
+            - generic [ref=e613]:
+              - img "SummarizeX logo" [ref=e614]
+              - heading "SummarizeX" [level=2] [ref=e615]
+            - paragraph [ref=e616]: Record meetings, lectures, and conversations, then get instant AI-powered summaries and key points. Never miss important information again.
+            - generic [ref=e617]:
+              - link "SummarizeX on Instagram" [ref=e618] [cursor=pointer]:
+                - /url: https://www.instagram.com/summarizex.ai/
+                - img "SummarizeX on Instagram" [ref=e619]
+              - link "SummarizeX on Facebook" [ref=e620] [cursor=pointer]:
+                - /url: https://www.facebook.com/people/SummarizeX-AI/61579351447619/
+                - img "SummarizeX on Facebook" [ref=e621]
+              - link "SummarizeX on LinkedIn" [ref=e622] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/summarizex-ai-note-taker/
+                - img "SummarizeX on LinkedIn" [ref=e623]
+              - link "SummarizeX on YouTube" [ref=e624] [cursor=pointer]:
+                - /url: https://www.youtube.com/@SummarizeXAI?themeRefresh=1
+                - img "SummarizeX on YouTube" [ref=e625]
+          - generic [ref=e626]:
+            - heading "Products" [level=3] [ref=e627]
+            - list [ref=e628]:
+              - listitem [ref=e629]:
+                - button "Features" [ref=e630] [cursor=pointer]
+              - listitem [ref=e631]:
+                - button "Industries" [ref=e632] [cursor=pointer]
+              - listitem [ref=e633]:
+                - button "Pricing" [ref=e634] [cursor=pointer]
+              - listitem [ref=e635]:
+                - button "Reviews" [ref=e636] [cursor=pointer]
+              - listitem [ref=e637]:
+                - button "FAQs" [ref=e638] [cursor=pointer]
+              - listitem [ref=e639]:
+                - button "Blogs" [ref=e640] [cursor=pointer]
+          - generic [ref=e641]:
+            - generic [ref=e642]:
+              - generic [ref=e643]:
+                - heading "Company" [level=3] [ref=e644]
+                - list [ref=e645]:
+                  - listitem [ref=e646] [cursor=pointer]:
+                    - link "About Us" [ref=e647]:
+                      - /url: https://softradix.com/about-us/
+                  - listitem [ref=e648] [cursor=pointer]:
+                    - link "Contact Us" [ref=e649]:
+                      - /url: mailto:support@summarize.ai
+              - generic [ref=e650]:
+                - heading "Legal" [level=3] [ref=e651]
+                - list [ref=e652]:
+                  - listitem [ref=e653] [cursor=pointer]:
+                    - link "Privacy Policy" [ref=e654]:
+                      - /url: /privacy
+                  - listitem [ref=e655] [cursor=pointer]:
+                    - link "Terms of Use" [ref=e656]:
+                      - /url: /terms
+            - generic [ref=e658]:
+              - link "Get SummarizeX on Google Play Get it on Google Play" [ref=e659] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=com.softradix.summarizex&pli=1
+                - button "Get SummarizeX on Google Play Get it on Google Play" [ref=e660]:
+                  - img "Get SummarizeX on Google Play" [ref=e661]
+                  - generic [ref=e662]:
+                    - paragraph [ref=e663]: Get it on
+                    - paragraph [ref=e664]: Google Play
+              - link "Download SummarizeX on the App Store Download on the App store" [ref=e665] [cursor=pointer]:
+                - /url: https://apps.apple.com/us/app/summarizex-ai-note-taker/id6747373968
+                - button "Download SummarizeX on the App Store Download on the App store" [ref=e666]:
+                  - img "Download SummarizeX on the App Store" [ref=e667]
+                  - generic [ref=e668]:
+                    - paragraph [ref=e669]: Download on the
+                    - paragraph [ref=e670]: App store
+        - generic [ref=e673]:
+          - paragraph [ref=e675]: © 2026 SoftRadix Technologies Pvt Ltd. All rights reserved.
+          - paragraph [ref=e676]:
+            - text: "Powered By:"
+            - link "SoftRadix" [ref=e677] [cursor=pointer]:
+              - /url: https://softradix.com/
+  - alert [ref=e678]
