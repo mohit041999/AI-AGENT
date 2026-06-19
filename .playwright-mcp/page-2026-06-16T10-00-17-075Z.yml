@@ -1,0 +1,10 @@
+- generic [ref=e6]:
+  - heading "Welcome to SummarizeX" [level=1] [ref=e7]
+  - paragraph [ref=e8]: A smarter way to record, transcribe, and summarize everything that matters.
+  - generic [ref=e9]:
+    - button "Get Started arrow" [ref=e10] [cursor=pointer]:
+      - generic [ref=e11]: Get Started
+      - img "arrow" [ref=e12]
+    - button "Log In arrow" [ref=e13] [cursor=pointer]:
+      - generic [ref=e14]: Log In
+      - img "arrow" [ref=e15]
