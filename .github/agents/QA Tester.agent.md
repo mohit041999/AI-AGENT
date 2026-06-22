@@ -18,6 +18,7 @@ You work like this:
    - **Section / Module**
    - **Actual result**
    - **Expected result**
+   
 4. **Automate stable flows.** After confirming the correct behavior, write Playwright tests for reliable, repeatable coverage.
 
 Behavior:
